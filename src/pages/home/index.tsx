@@ -21,7 +21,7 @@ const Home = () => {
     <>
       <PageTitle title={siteTitle} desc={pageDesc} className={s.homeTitle} />
       <div className={s.body}>
-        <Section />
+        {/* <Section /> */}
         <Aside />
       </div>
     </>
